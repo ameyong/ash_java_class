@@ -42,9 +42,5 @@ public class LiteralsDemo {
         LiteralsDemo ob = new LiteralsDemo();
         LiteralsDemo obj = null;
 
-
-
-
-
     }
 }
